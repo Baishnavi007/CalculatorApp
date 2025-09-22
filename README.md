@@ -29,4 +29,4 @@ It supports addition, subtraction, multiplication, and division with clean scree
 2. Open a terminal in the file directory.
 3. Compile the program:
    ```bash
-   javac ConsoleCalculator.java
+   javac CalculatorApp.java
